@@ -4,13 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedduhijod-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vedduhijod)
 [![Gmail](https://img.shields.io/badge/Email-vedduhijod@gmail.com-D14836?style=flat&logo=gmail)](mailto:vedduhijod@gmail)
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2200&pause=1000&color=F7971E&center=true&vCenter=true&width=480&lines=Full-Stack+Developer+💻;AI+Explorer+🤖;Cricket+Fan+🏏;Lifelong+Learner+🚀" alt="Typing SVG" />
-</p>
-
----
 
 ## 🚀 About Me
 
