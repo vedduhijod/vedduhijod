@@ -2,7 +2,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-vedduhijod-181717?style=flat&logo=github)](https://github.com/vedduhijod)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedduhijod-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vedduhijod)
-[![Gmail](https://img.shields.io/badge/Email-vedduhijod@gmail.com-D14836?style=flat&logo=gmail)](mailto:vedduhijod@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-vedduhijod@gmail.com-D14836?style=flat&logo=gmail)](mailto:vedduhijod@gmail)
 
 ---
 
@@ -107,17 +107,3 @@ B.Tech in Computer Science & Business Systems — **CGPA: 9.0 / 10**
 📧 [Email](mailto:vedduhijod@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/vedduhijod)  
 💻 [GitHub](https://github.com/vedduhijod)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedduhijod&show_icons=true&theme=radical" alt="Ved's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedduhijod&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vedduhijod&theme=react-dark&hide_border=true" alt="Ved's GitHub Activity Graph" />
-</p>
