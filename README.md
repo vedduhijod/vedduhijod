@@ -1,102 +1,228 @@
-# 👋 Hey there, I'm **Ved Vinod Duhijod**
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-vedduhijod-181717?style=flat&logo=github)](https://github.com/vedduhijod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedduhijod-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vedduhijod)
-[![Gmail](https://img.shields.io/badge/Email-vedduhijod@gmail.com-D14836?style=flat&logo=gmail)](mailto:vedduhijod@gmail)
+# 👋 Hey, I'm Ved Vinod Duhijod
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things"/>
 
-## 🚀 About Me
+<br>
 
-I'm a **Computer Science student** passionate about building scalable web apps and exploring **AI-driven innovation**.  
-💡 Deeply curious, always coding, and constantly learning something new.
+[![GitHub](https://img.shields.io/badge/GitHub-vedduhijod-181717?style=for-the-badge\&logo=github)](https://github.com/vedduhijod)
 
-- 🤝 Love collaborating with passionate developers and open-source communities.  
-- 🧠 Currently learning: `Next.js`, `TypeScript`, and `Prompt Engineering`.  
-- ⚙️ I enjoy turning ideas into reality — from concept to deployment.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedduhijod-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/vedduhijod)
 
----
+[![Email](https://img.shields.io/badge/Email-vedduhijod@gmail.com-D14836?style=for-the-badge\&logo=gmail)](mailto:vedduhijod@gmail)
 
-## 💼 Experience
+![](https://komarev.com/ghpvc/?username=vedduhijod\&style=for-the-badge)
 
-**Software Developer Intern** — *Codevertex, Pune*  
-<sub>Jan 2025 – Jun 2025</sub>  
-
-- Built responsive UIs using **React.js** & **Next.js**, improving user engagement by *25%*.  
-- Developed REST APIs using **Node.js** & **Express.js**, ensuring seamless backend communication.  
-- Managed data with **MongoDB** and collaborated within an Agile team of 5 using GitHub flow.
+</div>
 
 ---
 
-## 🧠 Projects
+# 🚀 About Me
 
-### 🗺️ [AI Trip Planner](https://github.com/vedduhijod/ai-trip-planner) • [Live Demo](#)
-Plan smarter, travel better.  
-Built with **React (Vite)**, **Firebase**, and **Google Gemini AI** — delivers personalized itineraries with visuals via the **Unsplash API**.  
-✨ *Features:* Google OAuth • AI Recommendations • ShadCN UI • Deployed on Vercel.
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
----
+💻 Computer Science student passionate about building scalable web applications and AI-powered products.
 
-### 💊 [Pharmacy Online Web App](https://github.com/vedduhijod/pharmacy-web-app)
-Buy medicines online effortlessly.  
-Built with **React.js**, **Express API**, and **Tailwind CSS** for a smooth single-page experience.
+💡 Deeply curious, constantly experimenting, and learning new technologies.
 
----
+### Current Focus
 
-### 🧩 GirlScript Summer of Code 2025 — Contributor
-Contributed to open-source repositories like *Creators-Space* and *TechieBlog*.  
-Worked on feature additions, bug fixes, and documentation improvements using **Git** & **GitHub**.
+* 🌱 Learning **Next.js**, **TypeScript**, and **Prompt Engineering**
+* 🤝 Open to collaborating on **Web Development & AI projects**
+* ⚡ Building ideas from **concept → deployment**
+* 🎯 Goal: Build technology that creates real-world impact
+
+<br>
 
 ---
 
-## 🎓 Education
+# 💼 Experience
 
-🎓 **Bharati Vidyapeeth College of Engineering, Pune** (2023–2027)  
-B.Tech in Computer Science & Business Systems — **CGPA: 9.0 / 10**
+### 👨‍💻 Software Developer Intern | Codevertex
 
-🏫 **School of Scholars, Wanadongri, Nagpur** (Class XII, 2022) — 80%  
-🏫 **Bhavan’s B.P. Vidya Mandir, Nagpur** (Class X, 2021) — 92%
+📍 Pune, Maharashtra
+📅 Jan 2025 – Jun 2025
 
----
+✅ Built responsive applications using **React.js** & **Next.js**
 
-## ⚙️ Tech Stack
+✅ Increased user engagement by **25%**
 
-**Languages**  
-`C` • `JavaScript` • `SQL`
+✅ Developed REST APIs using **Node.js** & **Express.js**
 
-**Frameworks & Tools**  
-![React.js](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+✅ Worked with **MongoDB**, Git workflow, and Agile development
 
 ---
 
-## 🏆 Achievements & Certifications
+# 🧠 Featured Projects
 
-- 🥇 **1st Place** — GeeksforGeeks DSA Hackathon (HiringShala)  
-- 🥈 **Intro to MongoDB (for Students)** — MongoDB University  
-- 🧩 **Postman API Fundamentals Student Expert**  
-- 📜 **NPTEL Certification** — Database Management Systems  
-- 💡 **Participant** — Smart India Hackathon 2025  
-- 🏏 Represented college in **State-Level Intercollegiate Cricket Tournament (2024)**
+## 🗺️ AI Trip Planner
+
+🔗 [Repository](https://github.com/vedduhijod/ai-trip-planner)
+
+Plan smarter and travel better with AI.
+
+### Tech Stack
+
+`React` `Firebase` `Gemini AI` `ShadCN UI` `Unsplash API`
+
+### Features
+
+✨ Google OAuth authentication
+
+✨ AI-generated personalized itineraries
+
+✨ Dynamic location visuals
+
+✨ Responsive modern UI
+
+✨ Vercel deployment
 
 ---
 
-## ⚡ Fun Facts
+## 💊 Pharmacy Online Web App
 
-- 🏏 Cricket is my stress-buster — I bowl a *mean bouncer*!  
-- 🎵 Music keeps my code flowing.  
-- 🌍 Dreaming of building tech that truly helps people.
+🔗 [Repository](https://github.com/vedduhijod/pharmacy-web-app)
+
+Online pharmacy platform designed for a smooth and efficient experience.
+
+### Tech Stack
+
+`React.js` `Express API` `TailwindCSS`
+
+### Features
+
+✨ Single-page responsive application
+
+✨ Fast navigation and clean UI
+
+✨ REST API integration
 
 ---
 
-## 📫 Let’s Connect
+## 🧩 GirlScript Summer of Code 2025
 
-📧 [Email](mailto:vedduhijod@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/vedduhijod)  
-💻 [GitHub](https://github.com/vedduhijod)
+Contributed to:
+
+* Creators-Space
+* TechieBlog
+
+Work included:
+
+✔️ Bug fixes
+
+✔️ Feature development
+
+✔️ Documentation improvements
+
+---
+
+# 🎓 Education
+
+🎓 **Bharati Vidyapeeth College of Engineering, Pune**
+
+**B.Tech — Computer Science & Business Systems**
+
+📅 2023–2027
+
+📈 CGPA: **9.0/10**
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,js,sql"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🏆 Achievements & Certifications
+
+🥇 **1st Place — GeeksforGeeks DSA Hackathon (HiringShala)**
+
+🥈 **MongoDB University — Intro to MongoDB**
+
+🧩 **Postman API Fundamentals Student Expert**
+
+📜 **NPTEL — Database Management Systems**
+
+💡 **Participant — Smart India Hackathon 2025**
+
+🏏 **Represented college in State-Level Intercollegiate Cricket Tournament**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vedduhijod&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedduhijod&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedduhijod&theme=tokyonight"/>
+
+</div>
+
+---
+
+# ⚡ Fun Facts
+
+🏏 Cricket is my stress buster — I bowl a mean bouncer
+
+🎵 Music keeps my code flowing
+
+🌍 Dreaming of building technology that genuinely helps people
+
+☕ Debugging somehow works better with coffee
+
+---
+
+<div align="center">
+
+# 📫 Let's Connect
+
+<a href="mailto:vedduhijod@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vedduhijod">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/vedduhijod">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
